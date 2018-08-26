@@ -46,3 +46,9 @@ The ModEnzA protocol for generating Enzyme HMM profiles is acccomplished using t
 <code>cat *.ModE.txt > ModEnzA-ModE-Enzyme-2018Jan31.hmm (2018Jan31 enzyme release date, change accordingly) </code>
 
 <code>cat *.hmm.txt > ModEnzA-hmm-Enzyme-2018Jan31.hmm (2018Jan31 enzyme release date, change accordingly) </code>
+
+
+## Citation
+If you find these scripts useful, please cite
+
+Sinha S and Lynn AM (2014) HMM‐ModE: implementation, benchmarking and validation with HMMER3. BMC Res Notes 7, 483.
