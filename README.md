@@ -55,7 +55,7 @@ If you find these scripts useful, please cite:
 Advances in bioinformatics, Volume 2011, Article ID 743782
 http://dx.doi.org/10.1155/2011/743782
 
-For the HMMer# implemenation of the methods please cite:
+For the HMMer3 implemenation of the methods please cite:
 
 * Sinha S and Lynn AM (2014) HMM‐ModE: implementation, benchmarking and validation with HMMER3. BMC Res Notes 7, 483
 https://doi.org/10.1186/1756-0500-7-483
