@@ -1,6 +1,9 @@
 # ModEnzA Protocol for generating accurate HMM profiles for Enzymes (EC nmumbers)
 
 ## Installation
+
+The scripts and modules in this protocol require BioPerl to be installed. YOu can get it from https://bioperl.org/
+
 The two Perl modules HMMmodE.pm and Hmm3.pm need to be placed in the folder where the scripts are being run
 
 Example: If you are planning to generate the profiles in a folder called ModEnzA-2018 and if your modules and scripts are in ~/Downloads/ModEnzA
