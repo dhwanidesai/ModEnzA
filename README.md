@@ -5,7 +5,7 @@
 
 ( this will create "list_of_all_training_seq" along with all the sequence files)
 
-<code> $ perl prepare_seq_files_for_modenza.pl <\code>
+<code> $ perl prepare_seq_files_for_modenza.pl </code>
 
 ! RUN MCL CLUSTERING 
 $  perl data_processing.pl list_of_all_training_seq
