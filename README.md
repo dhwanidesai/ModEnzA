@@ -18,5 +18,7 @@
 
 ## CONCATENATE ALL THE PROFILES
 <code> $ cd list_of_all_training_seq.train_samples </code>
+
 <code> $ cat *.ModE.txt > ModEnzA-ModE-Enzyme-2018Jan31.hmm (2018Jan31 enzyme release date, change accordingly) </code>
+
 <code> $ cat *.hmm.txt > ModEnzA-hmm-Enzyme-2018Jan31.hmm (2018Jan31 enzyme release date, change accordingly) </code>
