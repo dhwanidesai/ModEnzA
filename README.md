@@ -14,10 +14,14 @@ Example: If you are planning to generate the profiles in a folder called ModEnzA
 
 The Perl scripts (files with extension .pl) for processing the Enzyme data could be placed in the local bin folder (either /usr/local/bin or /home/username/bin). If the Perl scripts are placed at these locations, make sure they are executable (use chmod).
 
-Alternative, these scripts can also be copied to the folder where the profiles are being generated.
+Alternatively, these scripts can also be copied to the folder where the profiles are being generated.
 
 <code>cp ~/Downloads/ModEnzA/*.pl ModEnzA-2018 </code>
 
+To run the scripts, you need to change directory to where you are going to run the scripts
+
+<code>cd ModEnzA-2018 </code>
+  
 ## Usage
 The ModEnzA protocol for generating Enzyme HMM profiles is acccomplished using the following scripts. If the scrips are copied as executables to a folder included in the $PATH environment variable, you can run the scripts without typing "perl" in the beginning
 
