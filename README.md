@@ -18,7 +18,6 @@ Alternative, these scripts can also be copied to the folder where the profiles a
 ## Usage
 The ModEnzA protocol for generating Enzyme HMM profiles is acccomplished using the following scripts. If the scrips are copied as executables to a folder included in the $PATH environment variable, you can run the scripts without typing "perl" in the beginning
 
-### CREATE A FOLDER AND KEEP ALL THE SCRIPTS AND MODULES INSIDE THE DIRECTORY
 ### PREPARE THE SEQUENCE FILES FROM UNIPROT AND ENZYME DATABASE 
 
 ( this will create "list_of_all_training_seq" along with all the sequence files)
