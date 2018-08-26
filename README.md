@@ -49,6 +49,13 @@ The ModEnzA protocol for generating Enzyme HMM profiles is acccomplished using t
 
 
 ## Citation
-If you find these scripts useful, please cite
+If you find these scripts useful, please cite:
 
-Sinha S and Lynn AM (2014) HMM‐ModE: implementation, benchmarking and validation with HMMER3. BMC Res Notes 7, 483.
+* DK Desai, S Nandi, PK Srivastava, AM Lynn (2011) ModEnzA: accurate identification of metabolic enzymes using function specific profile HMMs with optimised discrimination threshold and modified emission probabilities
+Advances in bioinformatics, Volume 2011, Article ID 743782
+http://dx.doi.org/10.1155/2011/743782
+
+For the HMMer# implemenation of the methods please cite:
+
+* Sinha S and Lynn AM (2014) HMM‐ModE: implementation, benchmarking and validation with HMMER3. BMC Res Notes 7, 483
+https://doi.org/10.1186/1756-0500-7-483
